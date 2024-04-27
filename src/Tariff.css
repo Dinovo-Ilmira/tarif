@@ -1,0 +1,29 @@
+.tariff {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 8px;
+    text-align: center;
+    flex: 1;
+  }
+  
+  .tariff-highlighted {
+    background-color: #ff6a00;
+    color: #fff;
+    border-color: #ff6a00;
+  }
+  
+  .tariff-title {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+  }
+  
+  .tariff-price {
+    font-size: 2em;
+    margin-bottom: 10px;
+  }
+  
+  .tariff-info {
+    font-size: 1em;
+  }
+  
